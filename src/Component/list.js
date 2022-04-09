@@ -1,4 +1,4 @@
-import React, {Component} from "react";
+import React, {Component} from "react"; 
 
 class List extends Component{
     constructor(){
@@ -9,6 +9,7 @@ class List extends Component{
                 {nis: "101", nama: "Nurul", alamat: "Malang"},
                 {nis: "102", nama: "Misbah", alamat: "Pasuruan"},
             ],
+			
             nis: "",
             nama: "",
             alamat: "",
