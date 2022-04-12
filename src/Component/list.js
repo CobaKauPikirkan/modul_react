@@ -9,7 +9,6 @@ class List extends Component{
                 {nis: "101", nama: "Nurul", alamat: "Malang"},
                 {nis: "102", nama: "Misbah", alamat: "Pasuruan"},
             ],
-			
             nis: "",
             nama: "",
             alamat: "",
